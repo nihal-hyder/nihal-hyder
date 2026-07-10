@@ -71,10 +71,9 @@ I'm currently building a strong foundation in networking, ethical hacking, syste
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_WEBSITE
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/nihal-hyder
+- LinkedIn: https://www.linkedin.com/in/nihal-hyder-05b6bb380/
+- Email: contactnihaldxn@gmail.com
 
 ---
 
