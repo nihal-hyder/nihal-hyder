@@ -1,6 +1,6 @@
 # Hi there, I'm Nihal Hyder 👋
 
-### Computer Science Student • Cybersecurity Enthusiast • AI Learner
+### Computer Science Student • Cybersecurity • AI Learner
 
 I'm a Computer Science student from Pakistan with a strong passion for Cybersecurity and Artificial Intelligence.
 
