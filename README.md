@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Nihal Hyder 👋
 
-<!--
-**NIHALDXN/NIHALDXN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student • Cybersecurity Enthusiast • AI Learner
 
-Here are some ideas to get you started:
+I'm a Computer Science student from Pakistan with a strong passion for Cybersecurity and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is understanding how systems work, discovering how they can be secured, and continuously improving my technical skills through hands-on projects and research.
+
+I'm currently building a strong foundation in networking, ethical hacking, system security, and AI while sharing my journey through GitHub.
+
+---
+
+## 🚀 Currently Working On
+
+- 🛡️ Improving my Cybersecurity skills
+- 🤖 Learning Artificial Intelligence
+- 🌐 Building programming and networking projects
+- 📚 Expanding my knowledge through hands-on labs and research
+- 💻 Creating projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cybersecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-black?style=for-the-badge)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
+---
+
+## 🎯 Goals
+
+- Become a world-class Computer Scientist specializing in AI and Cybersecurity
+- Contribute to meaningful open-source projects
+- Build secure and intelligent software that solves real-world problems
+- Never stop learning
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="170"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_WEBSITE
+- Email: YOUR_EMAIL
+
+---
+
+> *"The more I learn, the more I realize how much there is still to discover."*
