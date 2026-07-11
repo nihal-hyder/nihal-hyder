@@ -63,8 +63,8 @@ I'm currently building a strong foundation in networking, ethical hacking, syste
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal-hyder&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-hyder&layout=compact&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal-hyder&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-hyder&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
