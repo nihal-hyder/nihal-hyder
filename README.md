@@ -69,7 +69,7 @@ I'm currently building a strong foundation in networking, ethical hacking, syste
 ---
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Design
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihal-hyder&show_icons=true&theme=github_dark" height="170"/>
