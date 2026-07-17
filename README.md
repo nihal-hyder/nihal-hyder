@@ -64,7 +64,8 @@ I'm currently building a strong foundation in networking, ethical hacking, syste
 
 ## FUN FACTS
 
-- I Love Reading Philosophy & Human-Minds
+- I Love Reading Philosophy
+- My Favourite Series is Mr Robot By
 
 ---
 
