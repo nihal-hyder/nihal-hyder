@@ -65,7 +65,7 @@ I'm currently building a strong foundation in networking, ethical hacking, syste
 ## FUN FACTS
 
 - I Love Reading Philosophy
-- My Favourite Series is Mr Robot By
+- My Favourite Series : Mr Robot By Sam Esmail
 
 ---
 
